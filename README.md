@@ -64,6 +64,43 @@ python games/Rock-Paper-Scissor/Rock-Paper-Scissor.py
 
 ---
 
+## 🚀 Quick Contribution Guide
+
+New to open source? Follow these simple steps to contribute:
+
+### 1️⃣ Fork the Repository
+Click the **Fork** button at the top-right corner of this repository.
+
+### 2️⃣ Clone Your Fork
+```bash
+git clone https://github.com/YOUR_USERNAME/python-mini-project.git
+```
+
+### 3️⃣ Create a New Branch
+```bash
+git checkout -b feature/your-feature-name
+```
+
+### 4️⃣ Make Your Changes
+Add your improvements, bug fixes, or documentation updates.
+
+### 5️⃣ Commit Your Changes
+```bash
+git add .
+git commit -m "Add: your meaningful commit message"
+```
+
+### 6️⃣ Push to GitHub
+```bash
+git push origin feature/your-feature-name
+```
+
+### 7️⃣ Open a Pull Request
+Go to your forked repository and click **Compare & Pull Request**.
+
+🎉 That's it! Thank you for contributing to Python Mini Projects.
+---
+
 ## ✨ Features
 
 ### 🌐 Interactive Web Application
