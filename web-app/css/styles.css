@@ -109,7 +109,8 @@ body {
     color: var(--text-color);
     line-height: 1.6;
     transition: background-color var(--motion-duration) ease, color var(--motion-duration) ease;
-    padding-bottom: 6rem; /* reserve space for fixed footer */
+    padding-bottom: 6rem;
+    /* reserve space for fixed footer */
 }
 
 #main-content {
@@ -1688,11 +1689,11 @@ body {
     width: 100%;
     box-sizing: border-box;
 
-    background: rgba(255,255,255,0.03);
+    background: rgba(255, 255, 255, 0.03);
     padding: 1.2rem;
     border-radius: 16px;
 
-    border: 1px solid rgba(255,255,255,0.08);
+    border: 1px solid rgba(255, 255, 255, 0.08);
 
     transition: all 0.25s ease;
     overflow: hidden;
@@ -1709,7 +1710,7 @@ body {
 .project-card:hover {
     transform: translateY(-4px);
     border-color: rgba(34, 197, 94, 0.3);
-    box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
 }
 
 .project-card:hover::after {
@@ -1731,11 +1732,9 @@ body {
     justify-content: center;
     border-radius: 20px;
 
-    background: linear-gradient(
-        135deg,
-        rgba(34, 197, 94, 0.12),
-        rgba(74, 222, 128, 0.10)
-    );
+    background: linear-gradient(135deg,
+            rgba(34, 197, 94, 0.12),
+            rgba(74, 222, 128, 0.10));
 
     margin-bottom: 1rem;
 
