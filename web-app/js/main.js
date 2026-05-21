@@ -146,8 +146,8 @@ document.addEventListener('DOMContentLoaded', function () {
         syncThemeColor(savedTheme);
         themeToggle.innerHTML =
             savedTheme === 'light'
-                ? '<i class="fas fa-sun" aria-hidden="true"></i>'
-                : '<i class="fas fa-moon" aria-hidden="true"></i>';
+                ? '<img src="assets/sun.svg" alt="" aria-hidden="true" class="theme-icon">'
+                : '<img src="assets/moon.svg" alt="" aria-hidden="true" class="theme-icon">';
         updateThemeToggleAria(savedTheme === 'light');
 
         themeToggle.addEventListener('click', function () {
@@ -160,8 +160,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
             themeToggle.innerHTML =
                 newTheme === 'light'
-                    ? '<i class="fas fa-sun" aria-hidden="true"></i>'
-                    : '<i class="fas fa-moon" aria-hidden="true"></i>';
+                    ? '<img src="assets/sun.svg" alt="" aria-hidden="true" class="theme-icon">'
+                    : '<img src="assets/moon.svg" alt="" aria-hidden="true" class="theme-icon">';
             updateThemeToggleAria(newTheme === 'light');
         });
     }
@@ -984,6 +984,21 @@ function showToast(message) {
             openProjectSafe(projectName, matchingCard);
             matchingCard.scrollIntoView({ behavior: 'smooth', block: 'center' });
         }, 300); // small delay so the page fully loads first
+    }
+})();
+
+// 4. On page load, check for ?category= param and apply filter
+(function () {
+    var params = new URLSearchParams(window.location.search);
+    var categoryParam = params.get('category');
+    var validCategories = ['all', 'games', 'math', 'utilities', 'playground', 'favorites'];
+    if (!categoryParam || !validCategories.includes(categoryParam)) return;
+
+    var matchingTab = document.querySelector('[data-category="' + categoryParam + '"]');
+    if (matchingTab) {
+        setTimeout(function () {
+            matchingTab.click();
+        }, 100);
     }
 })();
 
