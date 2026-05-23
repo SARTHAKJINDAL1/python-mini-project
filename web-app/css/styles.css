@@ -1978,10 +1978,11 @@ body {
     margin: auto;
 }
 
-.modal-close {
+..modal-close {
     position: absolute;
     top: 1rem;
     right: 1rem;
+    z-index: 10001;
     background: var(--danger-color);
     color: var(--on-accent);
     border: none;
