@@ -738,7 +738,7 @@ if (stickyFilterBar && heroSection) {
             if (searchLoader) searchLoader.style.display = query ? 'block' : 'none';
             debouncedSearch(query);
             performSearch();
-            if (query && projectsSection) {
+            if (query && projectsSection && document.activeElement === searchInput) {
                 projectsSection.scrollIntoView({
                     behavior: prefersReducedMotion() ? 'auto' : 'smooth',
                     block: 'start'
