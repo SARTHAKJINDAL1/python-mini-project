@@ -1587,6 +1587,7 @@ print('Hello, World!')" spellcheck="false"></textarea>
     ──────────────────────────────────────────────────────────────── -->
 <script src="https://unpkg.com/lucide@latest"></script>
 <script src="js/audio.js"></script>
+<script src="js/audioManager.js"></script>
 <script src="js/projects/rock-paper-scissor.js"></script>
 <script src="js/projects/dice-rolling.js"></script>
 <script src="js/projects/coin-flip.js"></script>
@@ -1621,10 +1622,8 @@ print('Hello, World!')" spellcheck="false"></textarea>
 <script src="js/projects/snake.js"></script>
 <script src="js/projects/spot-the-difference.js"></script>
 <script src="js/projects/color-palette.js"></script>
-<!-- Audio Manager — must load BEFORE projects.js -->
-<script src="js/audioManager.js"></script>
 <!-- Registry: maps project names to their module functions -->
-<script src="js/projects.js"></script>
+    <script src="js/projects.js"></script>
 <!--
         playground.js MUST come before main.js so that
         window.playgroundAPI is defined when main.js runs.
