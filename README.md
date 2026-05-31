@@ -95,9 +95,21 @@ python-mini-project/
       </a>
     </td>
     <td align="center" width="120">
+      <a href="https://github.com/AQUA1310">
+        <img src="https://github.com/AQUA1310.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="AQUA1310" /><br />
+        <sub><b>@AQUA1310</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
       <a href="https://github.com/Aayuiiitmg">
         <img src="https://github.com/Aayuiiitmg.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="Aayuiiitmg" /><br />
         <sub><b>@Aayuiiitmg</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/Abhishek-Satyarum">
+        <img src="https://github.com/Abhishek-Satyarum.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="Abhishek-Satyarum" /><br />
+        <sub><b>@Abhishek-Satyarum</b></sub>
       </a>
     </td>
     <td align="center" width="120">
@@ -112,6 +124,8 @@ python-mini-project/
         <sub><b>@AnushkaJagtap22</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/Aqifcodes">
         <img src="https://github.com/Aqifcodes.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="Aqifcodes" /><br />
@@ -124,8 +138,6 @@ python-mini-project/
         <sub><b>@Arpitawork24</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <a href="https://github.com/ArshiBansal">
         <img src="https://github.com/ArshiBansal.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="ArshiBansal" /><br />
@@ -150,6 +162,8 @@ python-mini-project/
         <sub><b>@Avneesh95</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/Bhairavi-28">
         <img src="https://github.com/Bhairavi-28.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="Bhairavi-28" /><br />
@@ -162,8 +176,6 @@ python-mini-project/
         <sub><b>@Bhavikapatel06</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <a href="https://github.com/C4aZy">
         <img src="https://github.com/C4aZy.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="C4aZy" /><br />
@@ -188,6 +200,8 @@ python-mini-project/
         <sub><b>@Facelessism</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/Grihika">
         <img src="https://github.com/Grihika.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="Grihika" /><br />
@@ -200,8 +214,6 @@ python-mini-project/
         <sub><b>@HARSHP-16</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <a href="https://github.com/HarshitaShakya">
         <img src="https://github.com/HarshitaShakya.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="HarshitaShakya" /><br />
@@ -226,6 +238,8 @@ python-mini-project/
         <sub><b>@Juhi4433</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/Kartikeyji17">
         <img src="https://github.com/Kartikeyji17.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="Kartikeyji17" /><br />
@@ -238,8 +252,12 @@ python-mini-project/
         <sub><b>@KhushiVadadoriya</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
+    <td align="center" width="120">
+      <a href="https://github.com/Krasper707">
+        <img src="https://github.com/Krasper707.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="Krasper707" /><br />
+        <sub><b>@Krasper707</b></sub>
+      </a>
+    </td>
     <td align="center" width="120">
       <a href="https://github.com/Kunal241207">
         <img src="https://github.com/Kunal241207.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="Kunal241207" /><br />
@@ -258,6 +276,8 @@ python-mini-project/
         <sub><b>@Lavanya-Talele</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/Mayank251125">
         <img src="https://github.com/Mayank251125.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="Mayank251125" /><br />
@@ -276,8 +296,6 @@ python-mini-project/
         <sub><b>@Mudita-Singh</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <a href="https://github.com/Naina123kashyap">
         <img src="https://github.com/Naina123kashyap.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="Naina123kashyap" /><br />
@@ -296,6 +314,8 @@ python-mini-project/
         <sub><b>@NehaP1706</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/Nencypatel21">
         <img src="https://github.com/Nencypatel21.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="Nencypatel21" /><br />
@@ -314,18 +334,16 @@ python-mini-project/
         <sub><b>@PIYUSH-NEXTGEN</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <a href="https://github.com/PRODHOSH">
-        <img src="https://github.com/PRODHOSH.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="PRODHOSH" /><br />
-        <sub><b>@PRODHOSH</b></sub>
-      </a>
-    </td>
     <td align="center" width="120">
       <a href="https://github.com/Papia-tech">
         <img src="https://github.com/Papia-tech.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="Papia-tech" /><br />
         <sub><b>@Papia-tech</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/Pavithra-git162">
+        <img src="https://github.com/Pavithra-git162.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="Pavithra-git162" /><br />
+        <sub><b>@Pavithra-git162</b></sub>
       </a>
     </td>
     <td align="center" width="120">
@@ -334,6 +352,8 @@ python-mini-project/
         <sub><b>@PragatiNigam29</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/Pratikshya32">
         <img src="https://github.com/Pratikshya32.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="Pratikshya32" /><br />
@@ -347,13 +367,17 @@ python-mini-project/
       </a>
     </td>
     <td align="center" width="120">
+      <a href="https://github.com/RaghuveerSingh05">
+        <img src="https://github.com/RaghuveerSingh05.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="RaghuveerSingh05" /><br />
+        <sub><b>@RaghuveerSingh05</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
       <a href="https://github.com/Ranjanmaiti6">
         <img src="https://github.com/Ranjanmaiti6.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="Ranjanmaiti6" /><br />
         <sub><b>@Ranjanmaiti6</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <a href="https://github.com/Sanjhivvarshan-b-s">
         <img src="https://github.com/Sanjhivvarshan-b-s.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="Sanjhivvarshan-b-s" /><br />
@@ -366,6 +390,8 @@ python-mini-project/
         <sub><b>@SathvikaTalari</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/Shashank-8p">
         <img src="https://github.com/Shashank-8p.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="Shashank-8p" /><br />
@@ -390,8 +416,6 @@ python-mini-project/
         <sub><b>@Siddh2024</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <a href="https://github.com/Sparshjoshi-iit">
         <img src="https://github.com/Sparshjoshi-iit.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="Sparshjoshi-iit" /><br />
@@ -404,6 +428,8 @@ python-mini-project/
         <sub><b>@Sreekuttan-007</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/Suhani-ai-dev">
         <img src="https://github.com/Suhani-ai-dev.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="Suhani-ai-dev" /><br />
@@ -428,8 +454,6 @@ python-mini-project/
         <sub><b>@Tiago-Vier-Preto</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <a href="https://github.com/Vanshikakhasat">
         <img src="https://github.com/Vanshikakhasat.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="Vanshikakhasat" /><br />
@@ -442,6 +466,8 @@ python-mini-project/
         <sub><b>@Vinanthi07</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/abdullahxyz85">
         <img src="https://github.com/abdullahxyz85.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="abdullahxyz85" /><br />
@@ -466,8 +492,6 @@ python-mini-project/
         <sub><b>@anujsharma8d</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <a href="https://github.com/artic2702">
         <img src="https://github.com/artic2702.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="artic2702" /><br />
@@ -480,6 +504,8 @@ python-mini-project/
         <sub><b>@ash-heinz</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/aspartic-gthb">
         <img src="https://github.com/aspartic-gthb.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="aspartic-gthb" /><br />
@@ -504,8 +530,6 @@ python-mini-project/
         <sub><b>@bhavyapandiya29</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <a href="https://github.com/codewithakshyaaa">
         <img src="https://github.com/codewithakshyaaa.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="codewithakshyaaa" /><br />
@@ -518,6 +542,8 @@ python-mini-project/
         <sub><b>@developer-yash03</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/dhanushrajvr">
         <img src="https://github.com/dhanushrajvr.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="dhanushrajvr" /><br />
@@ -542,8 +568,6 @@ python-mini-project/
         <sub><b>@iamprasoon2006-cell</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <a href="https://github.com/itsdakshjain">
         <img src="https://github.com/itsdakshjain.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="itsdakshjain" /><br />
@@ -556,6 +580,8 @@ python-mini-project/
         <sub><b>@jbkun069</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/jeetrouth">
         <img src="https://github.com/jeetrouth.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="jeetrouth" /><br />
@@ -580,8 +606,6 @@ python-mini-project/
         <sub><b>@madhavcodes25</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <a href="https://github.com/mahi-8758">
         <img src="https://github.com/mahi-8758.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="mahi-8758" /><br />
@@ -594,6 +618,8 @@ python-mini-project/
         <sub><b>@mrdeyroy</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/mrinmoyChakraborty-mrinox">
         <img src="https://github.com/mrinmoyChakraborty-mrinox.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="mrinmoyChakraborty-mrinox" /><br />
@@ -618,8 +644,6 @@ python-mini-project/
         <sub><b>@nimkarprachi17</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <a href="https://github.com/nishtha-agarwal-211">
         <img src="https://github.com/nishtha-agarwal-211.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="nishtha-agarwal-211" /><br />
@@ -632,6 +656,8 @@ python-mini-project/
         <sub><b>@parasmani-dev</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/parulpaliwal01">
         <img src="https://github.com/parulpaliwal01.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="parulpaliwal01" /><br />
@@ -656,8 +682,6 @@ python-mini-project/
         <sub><b>@priya05-git</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <a href="https://github.com/r-sushanth08">
         <img src="https://github.com/r-sushanth08.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="r-sushanth08" /><br />
@@ -670,6 +694,8 @@ python-mini-project/
         <sub><b>@rashiaggarwal06</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/rishit537">
         <img src="https://github.com/rishit537.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="rishit537" /><br />
@@ -694,8 +720,6 @@ python-mini-project/
         <sub><b>@sanzzzz-g</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <a href="https://github.com/shaktipy">
         <img src="https://github.com/shaktipy.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="shaktipy" /><br />
@@ -708,6 +732,8 @@ python-mini-project/
         <sub><b>@shimonenator</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/shreyasarote7717-cyber">
         <img src="https://github.com/shreyasarote7717-cyber.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="shreyasarote7717-cyber" /><br />
@@ -732,8 +758,6 @@ python-mini-project/
         <sub><b>@snehacodes-2906</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <a href="https://github.com/snehanair-486">
         <img src="https://github.com/snehanair-486.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="snehanair-486" /><br />
@@ -746,6 +770,8 @@ python-mini-project/
         <sub><b>@steam-bell-92</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/sujitsingh8">
         <img src="https://github.com/sujitsingh8.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="sujitsingh8" /><br />
@@ -770,8 +796,6 @@ python-mini-project/
         <sub><b>@vedansht2211</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <a href="https://github.com/vedika76">
         <img src="https://github.com/vedika76.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="vedika76" /><br />
@@ -784,6 +808,8 @@ python-mini-project/
         <sub><b>@vedikabajaj05</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/vivekCS007">
         <img src="https://github.com/vivekCS007.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="vivekCS007" /><br />
@@ -796,6 +822,8 @@ python-mini-project/
         <sub><b>@yuvraj-k-singh</b></sub>
       </a>
     </td>
+    <td width="120"></td>
+    <td width="120"></td>
     <td width="120"></td>
     <td width="120"></td>
   </tr>
